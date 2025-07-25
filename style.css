@@ -1,0 +1,193 @@
+.body {
+    background-image: url(img/ChatGPT\ Image\ Jun\ 7\,\ 2025\,\ 12_08_18\ AM.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.h {
+    color: white;
+    margin-left: 200px;
+}
+
+
+.div {
+    display: flex;
+}
+
+.divebi {
+    display: flex;
+    color: white;
+    gap: 30px;
+    align-items: center;
+    margin-left: 150px;
+}
+
+
+.brat {
+    display: flex;
+    margin-left: 150px;
+    align-items: center;
+    color: white;
+}
+
+.button {
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+    background-color: rgb(228, 59, 59);
+    color: white;
+    font-size: 20px;
+}
+
+.diva {
+    color: white;
+    margin-top: 200px;
+    margin-left: 220px;
+}
+
+.kideh1 {
+    width: 500px;
+}
+
+.button2 {
+    width: 160px;
+    height: 45px;
+    background-color: rgb(228, 59, 59);
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.wertili {
+    color: red;
+}
+
+.section {
+    background-color: white;
+    padding: 60px;
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    margin-top: 60px;
+
+}
+
+.text-content {
+    margin-left: 250px;
+}
+
+.y2 {
+    width: 300px;
+}
+
+.p2 {
+    width: 500px;
+    color: gray;
+}
+
+.p3 {
+    width: 500px;
+    color: gray;
+}
+
+.p4 {
+    width: 500px;
+    color: gray;
+}
+
+.p5 {
+    width: 500px;
+    color: gray;
+}
+
+
+.h6 {
+    color: gray;
+    width: 200px;
+}
+
+.data {
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.img3 {
+    width: 300px;
+    height: 450px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.img1 {
+    width: 300px;
+    height: 400px;
+}
+
+.img2 {
+    width: 300px;
+    height: 400px;
+}
+
+.img3 {
+    width: 300px;
+    height: 400px;
+}
+
+.imgebisdiv {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.metebi {
+    margin-left: 700px;
+    margin-top: 20px;
+}
+
+.feri {
+    background-color: white;
+    height: 1000px;
+    margin-top: -30px;
+}
+
+.Meet {
+    width: 400px;
+}
+
+.display {
+    display: flex;
+}
+
+.p9 {
+    color: gray;
+    font-size: 10px;
+}
+
+.dh {
+    width: 200px;
+    margin-left: 440px;
+}
+
+.dh2 {
+    width: 200px;
+    margin-left: 120px;
+}
+
+.dh3 {
+    width: 200px;
+    margin-left: 110px;
+}
+
+.p11 {
+    color: gray;
+    font-size: 10px;
+}
+
+.p10 {
+    color: gray;
+    font-size: 10px;
+}
